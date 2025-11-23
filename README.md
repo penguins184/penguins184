@@ -1,19 +1,26 @@
-# Hello!
+# I'm Penguins!
 
-My name is polish-penguin-dev and I'm a fullstack javascript, dart developer. Here are some of the tools I use:
+<a href='https://ko-fi.com/W7W31J9IS0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-- node.js, deno
-- typescript
-- coffeescript
+*Like my work? Consider donating!*
 
-Here are some of the frameworks I know:
+<img src="https://github-readme-stats.vercel.app/api?username=penguins184&theme=dark">
 
-- Learning three.js
-- Electron
-- Express
-- Firebase and mongo API
-- Discord.js
+Hi, I'm Penguins184! Welcome to my GitHub profile!
 
-And many more
+I like:
 
-### Looking to contribute on replit, polish-penguin-dev!
+- Web development
+- Discord bots
+- Minecraft stuff
+- Kindle homebrew
+
+I know:
+
+- JavaScript
+- GoLang
+
+I'm learning:
+
+- Dart (Flutter)
+- C
